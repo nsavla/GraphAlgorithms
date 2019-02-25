@@ -7,6 +7,7 @@ namespace Graphs
     {
          static void Main(string[] args)
         {
+            
             Console.WriteLine("Hello World!");
             Graph g = makeGraph();
             g.BFS();
@@ -56,7 +57,13 @@ namespace Graphs
                 Console.WriteLine("It is Eulerian cycle");
             else Console.WriteLine("It is not eyulerian cycle");
             Console.WriteLine();
-
+            
+            CloneGraph cg = new CloneGraph();
+            var node = cg.MakeExampleGraph();
+            var result = cg.Clone(node);
+            cg.Print(node);
+            Console.WriteLine();
+            cg.Print(result);
             Console.ReadLine();
 
         }
