@@ -1,0 +1,11 @@
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\bin\Debug\netcoreapp2.1\Graphs.deps.json
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\bin\Debug\netcoreapp2.1\Graphs.runtimeconfig.json
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\bin\Debug\netcoreapp2.1\Graphs.runtimeconfig.dev.json
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\bin\Debug\netcoreapp2.1\Graphs.dll
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\bin\Debug\netcoreapp2.1\Graphs.pdb
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.AssemblyInfoInputs.cache
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.AssemblyInfo.cs
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.dll
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.pdb
+C:\Users\Nsavla\OneDrive - Hearst\Documents\Projects\Graphs\Graphs\obj\Debug\netcoreapp2.1\Graphs.csprojAssemblyReference.cache
